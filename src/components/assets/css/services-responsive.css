@@ -1,0 +1,15 @@
+/* Medium screen  */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .services-one__left .section-title__title {
+        font-size: 34px;
+        line-height: 44px;
+    }
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .services-details__left {
+        margin-bottom: 60px;
+    }
+}
+

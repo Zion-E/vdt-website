@@ -1,0 +1,81 @@
+.test1 {
+    display: flex;
+    justify-content: center;
+}
+
+.quot {
+    filter: brightness(.5);
+}
+.high {
+    z-index: 99;
+    width: 50%;
+    margin-top: -130px;
+    display: flex;
+    color: #FFF;
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px;
+}
+
+.colon {
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px;
+}
+.colon2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px;
+    position: relative;
+    right: -630px;
+    display: flex;
+}
+
+.roww-net {
+    display: flex;
+    width: 77%;
+    gap: 30px;
+    text-align: center;
+    margin-top: 5em;
+}
+.col-nett {
+    background-color: #f5eccd;
+    justify-content: center;
+    padding: 10px
+}
+.col-nett {
+    background-color: #F5ECCD;
+    justify-content: center;
+}
+.fonty {
+    color: #000;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px;
+    margin-bottom: 15px;
+}
+
+.es1 {
+    color: #000;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19.6px;
+}
+

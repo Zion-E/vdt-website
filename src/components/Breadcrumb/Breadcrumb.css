@@ -1,0 +1,37 @@
+.row-dash {
+    margin-top: -5px;
+    z-index: 99;
+}
+.tone {
+    filter: brightness(0.6);
+    width: 100vw;
+    margin-top: -30px;
+}
+.bt-us {
+    margin-top: -130px;
+}
+
+.about-us {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    position: relative;
+    margin-bottom: 20px;
+    
+    padding-left: 3.5em;
+    
+}
+.avdt {
+    position: relative;
+    padding-left: 9em;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    
+}

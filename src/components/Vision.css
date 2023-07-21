@@ -1,0 +1,127 @@
+.cmv {
+    margin-top: 7em;
+    margin-left: 4em;
+    margin-right: 6em;
+    gap: 60px;
+}
+
+.fam {
+    display: flex;
+}
+
+.rect-1 {
+    position: relative;
+    background: #D9D9D9;
+    width: 166.619px;
+    /* height: 231px; */
+    flex-shrink: 0;
+    top: -15px;
+    z-index: 10;
+    
+}
+.sofa {
+    position: relative;
+    z-index: 200;
+    right: 150px
+}
+.rect-2 {
+    position: relative;
+    background: #D9D9D9;
+    width: 200px;
+    height: 200px;
+    flex-shrink: 0;
+    z-index: 10;
+    top: 290px;
+    margin-left: -330px
+}
+
+.col-anthem {
+    margin-top: 1.5em; 
+}
+.main-v {
+    color:#C79F47;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px;
+}
+.main {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px;
+    padding-bottom: 8px;
+}
+.main-m {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px;
+    padding-bottom: 15px
+}
+
+.vmc {
+    background-color: white;
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    padding: 20px;
+    /* height: 140px; */
+}
+.vmc-text-color {
+    color: #C79F47;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19.6px;
+}
+.v-icon {
+    height: 45px;
+    color: #C79F47;
+}
+.m-icon {
+    height: 45px;
+    color: #C79F47;
+}
+.value-icon {
+    height: 45px;
+}
+
+.our-value {
+    background: #E9F1F7;
+    /* height: 140px; */
+    margin-top: 30px;
+    padding: 20px;
+    padding-top: 35px;
+}
+.our-value-color {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19.6px;
+    color: #DC157B;
+    
+}
+.m-icon {
+    color: white;
+}
+.our-mission {
+    background-color: #C79F47;
+    margin-top: 30px;
+    padding: 20px;
+    padding-top: 34px;
+    color: white;
+    /* height: 140px; */
+}
+.our-mission-color {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19.6px;
+}

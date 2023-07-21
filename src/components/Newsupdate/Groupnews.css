@@ -1,0 +1,57 @@
+.g-news {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 5em;
+    
+}
+
+.group {
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    
+}
+
+
+.news-bg {
+    background-image:url(../../pictures/VDTLTE/Rectangle\ 372\ \(3\).png);
+    width: 331px;
+    height: 231px;
+    flex-shrink: 0;
+    
+}
+.news-bg1 {
+    background-image:url(../../pictures/VDTLTE/Rectangle\ 372\ \(4\).png);
+    width: 331px;
+    height: 231px;
+    flex-shrink: 0; 
+}
+.news-bg2 {
+    background-image:url(../../pictures/VDTLTE/Rectangle\ 372\ \(5\).png);
+    width: 331px;
+    height: 231px;
+    flex-shrink: 0; 
+}
+.paginate {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 2em;
+}
+/* .dater {
+    position: relative;
+    top: -200px;
+    left: 30px;
+    background-color: #C79F47;
+    width: fit-content;
+    padding: 12px 20px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+} */

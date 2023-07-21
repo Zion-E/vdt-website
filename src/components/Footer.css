@@ -1,0 +1,76 @@
+.foot {
+    margin-top: 5em;
+    background-color: #181B24;
+    padding: 2em;
+    padding-bottom: 3em;
+}
+.sub {
+    padding-right: 0px;
+}
+.sub-call {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.sub {
+    color: white;
+    margin-left: 10%;
+    margin-top: 4%;
+}
+.footnote {
+    margin-top: 1em;
+    color: #FFF;
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    width: 459px;
+}
+.e-form {
+    margin-top: 1em;
+    padding-bottom: 1.5em;
+    width: 80%;
+}
+/* .email-form {
+    width: 80%;
+} */
+.email-input {
+    padding: 20px;
+    width: 70%;
+    border: 1px solid #ccc;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    color: #000;
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    
+}
+
+.maillady {
+    padding: 30px;
+}
+.subscribe-key {
+    margin-left: 0;
+    border-width:0;
+    padding: 22px;
+    color: #FFF;
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    background-color: #C79F47;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+

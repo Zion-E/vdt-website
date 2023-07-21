@@ -1,0 +1,185 @@
+.wave {
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}
+
+.row-title {
+    background-color: rgba(186, 198, 206, 0.219);
+    display: flexbox;
+    justify-content: center;
+    
+}
+.line1 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 97%;
+    font-size: x-small;
+    margin-right: 0;
+    
+}
+
+.col-line {
+    flex:0;
+    /* margin-top: 0.5em; */
+}
+
+.col-addr {
+    border: 0;
+    /* padding-top: 0.5em; */
+}
+.call {
+    
+    padding: 0.3em;
+    background-color: rgb(163, 154, 24);
+    width: 6em;
+    border-width: 0;
+    color: white;
+    margin-right:0.6em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    
+}
+
+a {
+    color: white;
+}
+
+.col-social {
+    background-color: rgb(211, 43, 113);
+    color: #C79F47; 
+    color: #DC157B;
+    align-content: center; 
+    margin-top: 0%;
+}
+
+.links {
+    height: 15px;
+    
+}
+
+.hans {
+    align-items: center;
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+    height: 5em;
+    margin-left: -30px;
+
+}
+
+.vdt {
+    background-image: url('../pictures/VDTComplete/Rectangle\ 4.png');
+    border-bottom-left-radius: 40px;
+    height: 6.5em;
+    z-index: 999;
+    
+}
+.vdtlogo {
+    height: 20px;
+    width: 90px;
+    padding-left: 15px;
+    padding-top: 17px 
+}
+
+.home-level {
+    
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 6em;
+    
+}
+
+.home-bar {
+    justify-content: center;
+    padding: 0;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: -1em
+}
+
+.dropdown-toggle {
+    color: rgb(168, 37, 54);
+}
+.home-color {
+    color: rgb(168, 37, 54);
+} 
+.col-dial {
+
+    display:flex;
+    padding-left: 0;
+    padding-right: 0;
+    align-items: center;
+    flex-wrap: nowrap;
+    margin-top: -1em;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+}
+.p-icon {
+    height: 40px;
+    padding-right: 10px;
+}
+
+.pic {
+    width: 100%;
+    height: 35em;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.trim {
+    height: 10px;
+    width: 100vw;
+    color: rgb(101, 132, 190);
+}
+.nav-item {
+    padding-right: 0;
+}
+
+.nav-link1 {
+    margin-left: 50%;
+    border-left: 50%;
+    padding-left: 50%;
+}
+
+.front-pic {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    background-color: grey;
+    display: inline-block;   
+}
+
+li {
+    display: inline-block;
+}
+
+@media (max-width < 1500px) {
+    .hans {
+        font-size: x-small;
+    }
+    .front-pic {
+        width: 100%;
+        height: 900px;
+    }
+}
+@media (max-width: 1000px) {
+   .front-pic {
+    width: 100%;
+    height: inherit;
+} 
+}
+@media (max-width: 800px) {
+   .front-pic {
+    width: 100%;
+    height: inherit;
+} 
+}

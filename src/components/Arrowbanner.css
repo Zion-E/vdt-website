@@ -1,0 +1,4 @@
+.backdrop {
+    /* width: 100vw; */
+    filter:brightness(0.5);
+}

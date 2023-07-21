@@ -1,0 +1,105 @@
+/* Medium screen  */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .news-one__content {
+        padding: 22px 20px 34px;
+    }
+
+    .news-one__title {
+        font-size: 21px;
+    }
+
+    .news-one__hover-content {
+        padding: 18px 20px 23px;
+    }
+
+    .news-one__hover-title {
+        font-size: 21px;
+    }
+
+    .news-one__hover-btn-box a {
+        padding: 15px 20px 16px;
+    }
+
+    .news-two__title {
+        position: absolute;
+        left: 20px;
+        right: 20px;
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .news-details__pagenation li+li {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .news-details__pagenation li+li {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+    .news-one__content {
+        padding: 22px 20px 34px;
+    }
+
+    .news-one__title {
+        font-size: 21px;
+    }
+
+    .news-one__hover-content {
+        padding: 18px 20px 23px;
+    }
+
+    .news-one__hover-title {
+        font-size: 21px;
+    }
+
+    .news-one__hover-btn-box a {
+        padding: 15px 20px 16px;
+    }
+
+    .news-two__title {
+        position: absolute;
+        left: 20px;
+        right: 20px;
+    }
+
+    .news-two__title br {
+        display: none;
+    }
+
+    .news-details__content {
+        padding: 22px 22px 35px;
+    }
+
+    .news-details__bottom {
+        flex-direction: column;
+    }
+
+    .news-details__social-list {
+        margin-top: 20px;
+    }
+
+    .news-details__pagenation li+li {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+
+    .news-details__pagenation li {
+        font-size: 18px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1680px) {}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {}

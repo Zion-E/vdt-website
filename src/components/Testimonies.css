@@ -1,0 +1,204 @@
+.testimony {
+    background-color: #e2efde;
+    margin-top: 8em;
+    padding-bottom: 4em;
+    padding-top: 2em;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.car-item {
+        width: 30%;
+        padding: 1em;
+        justify-content: center;
+        align-self: center;
+        margin-left: 2em;
+        padding-top: 2em;
+        background-color: white;
+        border-radius: 8px;
+}
+
+.davo {
+    padding-top: 0.5em;
+    padding-left: 2em;
+}
+
+.alice-carousel__prev-btn-item, .alice-carousel__next-btn-item {
+    display: inline-block;
+    cursor: pointer;
+    padding: 5px;
+    margin: 0;
+    background-color: white;
+    color: black;
+}
+
+.alice-carousel__prev-btn-item.__inactive, .alice-carousel__next-btn-item.__inactive {
+
+    pointer-events: none;
+}
+
+.alice-carousel__prev-btn-item, .alice-carousel__next-btn-item {
+    display: inline-block;
+    cursor: pointer;
+    padding: 5px;
+    padding-left: 20px;
+    margin: 0;
+    background-color: white;
+    color: black;
+    width: 35px
+}
+
+.best {
+    color: #C79F47;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19.6px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    margin-top: 64px;
+}
+.best-comment {
+    color: #262B38;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    margin-top: 24px;
+}
+button {
+    background-color: white;
+    border: 0;
+}
+.col-prev {
+    display: flex;
+    margin-right: 0;
+    height: fit-content;
+    margin-top: 9em;
+    padding-left: 10em;
+    width: fit-content;
+    
+}
+.col-next {
+    margin-top: 9em;
+    margin-left: 5em;
+}
+
+.what {
+    text-align: center;
+    padding-bottom: 2em;
+}
+.commento {
+    text-align: center;
+}
+.arr-p {
+    background-color: white;
+}
+
+.direct {
+    background-color: white;
+    border-radius: 100%;
+    padding: 1em;
+}
+.saying-1 {
+    background-color: white;
+    margin-top: 3em;
+    margin-right: 1em;
+    border-radius: 5px;
+    padding: 1em;
+}
+.saying {
+    background-color: white;
+    margin-top: 3em;
+    margin-right: 1em;
+    border-radius: 5px;
+    padding: 1em;
+}
+.tunji {
+    width: 4em;
+    height: 3.5em;
+    padding-right: 0.5em;
+}
+.carousel .slide img {
+    border: 0;
+}
+
+.alice-carousel__prev-btn {
+    /* text-align: right; */
+    top: -300px;
+}
+
+btn, .alice-carousel__next-btn {
+    /* display: inline-block; */
+    box-sizing: border-box;
+    /* width: 50%; */
+    padding: 10px 5px;
+}
+
+
+
+/* .carousel-item.active, .carousel-item-next, .carousel-item-prev {
+    display: grid;
+} */
+
+/* .carousel-item-active {
+    display: grid;
+    align-items: center;
+} */
+
+/* .carousel-control-prev-icon, .carousel-control-next-icon {
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% 100%;
+    background-color: black;
+} */
+
+/* .carousel-item {
+    border-width: 1em;
+    border-color: blueviolet;
+} */
+
+/* .caro {
+    height: 80%;
+    width: 50%;
+    justify-self: center;
+    padding-top: 2em;
+} */
+/* .carousel {
+    width: 400px;
+    overflow: hidden;
+    position: relative;
+}
+.carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+.slide {
+    flex: 0 0 100%;
+    text-align: center;
+}
+
+.prev,
+.next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 10px;
+}
+.prev {
+    left: 10px;
+}
+.next {
+    right: 10px;
+} */
+

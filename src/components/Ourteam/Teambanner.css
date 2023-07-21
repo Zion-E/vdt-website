@@ -1,0 +1,25 @@
+.team-b {
+    height: 300px;
+}
+
+.text-banner {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    position: relative;
+    top: -100px;
+    left: 140px
+}
+.our-team {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+

@@ -1,0 +1,135 @@
+.ser-box {
+    max-width: 100%;
+    padding-top: 6em;
+
+}
+
+.client {
+    text-align: center;
+    color: #000F2A;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px;
+    margin-top: 3em;
+    
+}
+.row-drop {
+    text-align: center;
+    padding-top: 1em;
+}
+.fadrop {
+    color:blue;
+}
+.slack {
+    height: 2rem;
+}
+.companies {
+    margin-right: 1.5rem;
+}
+/* .ser-box {
+    height: 957px;
+} */
+
+.SWO {
+    background-color: #DC157B;
+    margin-left: 7%;
+    margin-right: 7%;
+    text-align: center;
+    margin-top: 5em;
+    padding: 81px;
+    padding-bottom: 88px;
+}
+.img-router1 {
+    height: 70px;
+    margin-top: 1em;
+}
+.img-router {
+    margin-top: 1em;
+    padding-bottom: 5px;
+    height: 80px;
+}
+.img-router3 {
+    margin-top: 1em;
+    
+    height: 80px;
+}
+
+.BIT {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19.6px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+}
+
+.offer{
+    margin-top: 32px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px; 
+}
+.row-net {
+    margin-top: 39px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display:flex;
+    justify-content: center;
+}
+.col-net {
+    background-color: white;
+    margin-right: 2em;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    /* height: 200px;
+    width: 200px;  */
+}
+.col-neti {
+    background-color: white;
+    padding-top: 15px;
+    
+    /* height: 200px;
+    width: 200px; */
+    
+     
+}
+
+/* p.SWO {
+    margin-bottom: 30px;
+} */
+
+
+.es1 {
+    margin-top: 30px;
+    color: #131313;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px;
+}
+.es2 {
+    margin-top: 20px;
+    color: #131313;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px;
+}
+.es3 {
+    margin-top: 20px;
+    color: #131313;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px;
+}

@@ -1,0 +1,192 @@
+.question {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    width: 100vw;
+    
+}
+.callTelephone {
+    filter: brightness(0.8);
+    z-index: 0;
+    margin-top: -30px;
+}
+
+.local-call {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    margin-top: -120px;
+    padding-left: 5em;
+    z-index: 5;
+}
+.local-call-2 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin-top: -75px;
+    padding-left: 12.5em;
+    z-index: 5;
+}
+
+.details {
+    display: flex;
+    width: 78%;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 66px;
+    height: 521px;
+    margin-top: 45px;
+    
+}
+.got-que {
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 38px;
+}
+.reaching {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 15px;
+    
+}
+.det-icons {
+    background-color: #C79F47;
+    padding: 10px;
+    width: 80px;
+    height: 80px;
+}
+.det-text {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+}
+
+
+.form-detail {
+    display: flex;
+    padding: 60px 28px 29px 29px;
+    flex-direction: column;
+    
+    background-color: #f6f6f6;
+    align-items: flex-start;
+    gap: 24px;
+    margin-top: 0;
+}
+.form-control {
+    width: 450px;
+}
+
+.message2 {
+    height: 160px;
+    width: 450px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+}
+.message-btn{
+    background-color: #C79F47;
+    display: flex;
+    width: 200px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: white;
+}
+
+.locate-us {
+    
+    width: 78%;
+    
+    margin-top: 30px; 
+}
+
+/* .map {
+    width: 641px;
+    height: 400px;
+    
+} */
+.free-talk {
+    background-color: #F6F6F6;
+    padding: 60px 55px;
+    /* width: 375px;
+    height: 400px; */
+    flex-shrink: 0;
+}
+.talk-text {
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+}
+.consulting {
+    
+    
+    margin-top: 4em;
+    /* background-image: url(../../pictures/iconLogo/consultus.png); */
+    height: 14em;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+.consulter {
+    filter: brightness(0.7);
+    z-index: 0;
+}
+.consult-line {
+    width: 78%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: -190px;
+    z-index: 10;
+}
+.attend {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+
+}
+.need-a-con {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px;
+}
+.talk-consult {
+    background-color: white;
+    padding: 20px;
+    width: fit-content;
+    color: #C79F47;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 10px;
+    letter-spacing: 0.28px;
+    
+}

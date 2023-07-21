@@ -1,0 +1,25 @@
+.dbanner {
+    filter:brightness(0.3);
+}
+
+.Capnews-up2 {
+    position: relative;
+    top: -120px;
+    left: 150px;
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.Capnews-up {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    margin-bottom: 20px;
+}

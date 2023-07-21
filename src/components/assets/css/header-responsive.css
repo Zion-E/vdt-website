@@ -1,0 +1,140 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .main-header__top {
+        display: none;
+    }
+
+    .main-menu .mobile-nav__toggler {
+        color: var(--insur-base);
+        display: inline-block;
+        padding: 12px 0;
+    }
+
+    .main-menu .mobile-nav__toggler:hover {
+        color: var(--insur-black);
+    }
+
+    .main-menu-two .mobile-nav__toggler {
+        color: var(--insur-base);
+        display: inline-block;
+        padding: 22px 0;
+    }
+
+    .main-header-two__top-social-box {
+        display: none;
+    }
+
+    .main-header-two__top-details-list {
+        display: none;
+    }
+
+    .main-header-two__top-details-inner {
+        justify-content: center;
+    }
+
+    .main-menu-three .mobile-nav__toggler {
+        color: var(--insur-base);
+        display: inline-block;
+        padding: 42px 0;
+    }
+
+    .main-menu-three__logo {
+        padding-right: 50px;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 767px) {
+    .main-header__top {
+        display: none;
+    }
+
+    .main-menu .mobile-nav__toggler {
+        color: var(--insur-base);
+        display: inline-block;
+        padding: 12px 0;
+    }
+
+    .main-menu .mobile-nav__toggler:hover {
+        color: var(--insur-black);
+    }
+
+    .main-menu__right {
+        display: none;
+    }
+
+    .main-menu__left {
+        float: none;
+    }
+
+    .main-menu__logo {
+        margin-right: 0;
+    }
+
+    .main-menu__main-menu-box {
+        float: right;
+        padding-right: 21px;
+        padding-left: 21px;
+    }
+
+    .main-menu__main-menu-box-search-get-quote-btn {
+        display: none;
+    }
+
+    .main-menu-two .mobile-nav__toggler {
+        color: var(--insur-base);
+        display: inline-block;
+        padding: 22px 0;
+    }
+
+    .main-header-two__top-social-box {
+        display: none;
+    }
+
+    .main-header-two__top-details-list {
+        display: none;
+    }
+
+    .main-header-two__top-details-inner {
+        justify-content: center;
+    }
+
+    .main-menu-two__search-box {
+        display: none;
+    }
+
+    .main-menu-three .mobile-nav__toggler {
+        color: var(--insur-base);
+        display: inline-block;
+        padding: 42px 0;
+    }
+
+    .main-menu-three__left {
+        float: none;
+    }
+
+    .main-menu-three__logo {
+        padding-right: 0;
+    }
+
+    .main-menu-three__right {
+        display: none;
+    }
+
+    .main-menu-three__main-menu-box {
+        float: right;
+    }
+
+
+
+
+
+}

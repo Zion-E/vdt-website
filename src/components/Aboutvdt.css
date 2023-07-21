@@ -1,0 +1,65 @@
+.tdv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 8em;
+    height: fit-content;
+    margin-bottom: 4em;
+    
+}
+.pree {
+    width: 70%;
+    
+}
+.best-it-company {
+    color: #C79F47;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19.6px; /* 140% */
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.about-vdt {
+    color: #131313;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19.6px;
+    margin-bottom: 20px;
+}
+
+.vdt-license {
+    color: #131313;
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.text-gaps {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.devices {
+    width: 382px;
+    height: 499px;
+    flex-shrink: 0;
+
+}
+.cert {
+    height: 80px;
+    position: relative;
+    margin-top: -480px;
+    margin-left: -410px;
+}
+.deta {
+    padding-top: 1em;
+}

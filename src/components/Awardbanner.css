@@ -1,0 +1,26 @@
+.award-up {
+    top: -110px;
+    color: white;
+    position: relative;
+    left: 130px;
+
+}
+
+.aw-ce {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    
+}
+.vaw-ce {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    margin-top: 20px;
+}

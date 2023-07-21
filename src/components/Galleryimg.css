@@ -1,0 +1,22 @@
+.gallery-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.my-tabs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+.all-img {
+    display: flex;
+    gap: 10px;
+}
+.gal-img {
+    width: 330px;
+    height: 330px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,14 @@
+.freeze {
+    display: flex;
+    box-shadow: 3px;
+}
+.press {
+    background-color: black;
+    color: white;
+    width: fit-content;
+    display: flex;
+    
+}
+.press-bot {
+    margin-bottom: 20px;
+}
