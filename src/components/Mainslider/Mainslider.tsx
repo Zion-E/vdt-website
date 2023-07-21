@@ -19,7 +19,7 @@ const MainSlider: React.FC = () => {
         <div className="item main-slider__slide-1">
           <div
             className="main-slider__bg"
-            style={{ backgroundImage: 'url(../../pictures/VDTCOMM/Rectanglepic)' }}
+            style={{backgroundImage: 'url(../../pictures/VDTCOMM/Rectanglepic)' }}
           ></div>
           <div className="main-slider__shape-1 img-bounce">
             <img src="../assets/images/shapes/main-slider-shape-1.png" alt="" />
